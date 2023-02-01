@@ -5,7 +5,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devSamuel29&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="C#" height="30" width="40" src="https://docs.microsoft.com/en-us/dotnet/images/hub/net/csharp-card.png"> 
+  <img align="center" alt="C#" height="30" width="40" src="https://commons.wikimedia.org/wiki/File:C_Sharp_logo.svg"> 
 </div>
 
 <br> 
