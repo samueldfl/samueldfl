@@ -5,8 +5,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devSamuel29&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="C#" height="30" width="40" src="https://commons.wikimedia.org/wiki/File:C_Sharp_logo.svg"> 
-</div>
+![C# Icon](https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_original_logo_icon_146578.png)
+ </div>
 
 <br> 
  
