@@ -1,4 +1,4 @@
-# Olá! Eu sou o Samuel Duarte, desenvolvedor Back-End .NET 🖐️
+# Olá! Eu sou o Samuel Duarte 🖐️
 
  <div>
   <a href="https://github.com/devSamuel29">
