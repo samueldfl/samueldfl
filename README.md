@@ -8,7 +8,7 @@
 </div>
    
 ## Tecnologias que eu uso no meu dia
-
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 <div style="display: inline_block">
   ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 " />
