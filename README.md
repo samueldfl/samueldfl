@@ -1,4 +1,4 @@
-# Olá! Eu sou o Samuel Duarte 🖐️
+# Olá! Eu sou o Samuel Lima 🖐️
 
  <div>
   <a href="https://github.com/devSamuel29">
