@@ -13,7 +13,7 @@
 <div style="display: inline_block">
   <a href="#!"><img align="center" alt="csharp" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" ></a>
   <a href="#!"><img align="center" alt="dotnet" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" /></a>
-  <a href="#!"> <img src="https://img.shields.io/badge/RabbitMQ-3.8.14-brightgreen" alt="RabbitMQ" /></a>
+  <a href="#!"><img align="center" alt="rabbitmq" src="https://img.shields.io/badge/RabbitMQ-%23FF6600.svg?style=for-the-badge&logo=RabbitMQ&logoColor=white" /></a>  
   <a href="#!"><img align="center" alt="sqlserver" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" /></a>
   <a href="#!"><img align="center" alt="azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" /></a>
 </div><br/>
