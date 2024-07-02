@@ -1,12 +1,4 @@
 # Olá! Eu sou o Samuel Lima 🖐️
-
- <div>
-  <a href="https://github.com/samueldfl">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devSamuel29&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devSamuel29&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
-<div style="display: inline_block"><br>
-</div>
    
 ## Tecnologias que eu uso no meu dia
 
