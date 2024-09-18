@@ -1,4 +1,4 @@
-# Olá! Eu sou o Samuel Lima 🖐️
+# Olá! Eu sou o Samuel Duarte 🖐️
    
 ## Tecnologias que eu uso no meu dia
 
